@@ -181,10 +181,10 @@ Certain products are associated with **higher downtime**, likely due to:
 
 ## 📷 Dashboard Preview
 Executive Overview
-![Executive Overview](images/IMG_8747)
+![Executive Overview](images/IMG_8747.png)
 
 ### Operator Performance
-![Operator Performance](images/IMG_8749)
+![Operator Performance](images/IMG_8749.png)
 
 ### Downtime Analysis
-![Downtime Analysis](images/IMG_8748)
+![Downtime Analysis](images/IMG_8748.png)
